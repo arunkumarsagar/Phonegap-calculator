@@ -1,0 +1,12 @@
+function newDoc() {
+    window.location.assign("cropa4.php")
+}
+function newDoc1() {
+    window.location.assign("expert.php")
+}
+function newDoc2() {
+    window.location.assign("admin.php")
+}
+function newDoc3() {
+    window.location.assign("submitproblem.php")
+}
